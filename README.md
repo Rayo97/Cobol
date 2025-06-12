@@ -20,3 +20,6 @@ Este repositorio contiene ejercicios, pruebas y pequeños proyectos desarrollado
 ├── db2/               # Sentencias SQL y scripts de prueba con DB2
 ├── cics/              # Programas y definiciones para transacciones CICS
 └── docs/              # Documentación técnica y diagramas
+
+
+https://www.linkedin.com/in/ray-martinez-compean/
